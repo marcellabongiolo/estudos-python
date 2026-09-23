@@ -1,68 +1,47 @@
-<div align="center">
+# 🐍 Estudos de Python
 
-# 🐍 PYTHON MASTERY & ADVANCED STUDIES 🚀
+Repositório dedicado ao estudo progressivo de **Python, lógica de programação, automação e desenvolvimento de pequenos projetos**.
 
-<img src="https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CLEAN_CODE-PRACTITIONER-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UNESC-SOFTWARE_ENGINEERING-purple?style=for-the-badge" />
+A proposta é registrar a evolução prática dos estudos de forma organizada, mantendo cada módulo simples, documentado e fácil de expandir.
 
-> *“Programs must be written for people to read, and only incidentally for machines to execute.”*
+## 📚 Organização
 
-</div>
+### [fundamentals/](./fundamentals)
+Base da linguagem Python: sintaxe, tipos de dados, condicionais, loops, funções, coleções e tratamento de exceções.
 
----
+### [automation/](./automation)
+Estudos de automação, manipulação de arquivos, processamento de dados, scripts utilitários e integração com ferramentas e APIs.
 
-## 🌟 Welcome to My Python Universe!
+### [projects/](./projects)
+Pequenos projetos práticos para aplicar os conceitos estudados e desenvolver código mais modular e reutilizável.
 
-> [!NOTE]
-> Este repositório centraliza toda a minha jornada de evolução técnica em Python. Aqui você encontrará desde a lógica fundamental de programação até scripts avançados de automação e arquiteturas orientadas a objetos, desenvolvidos com rigor acadêmico e padrões de mercado.
+## 🎯 Objetivos de aprendizagem
 
----
+- fortalecer lógica de programação;
+- desenvolver fluência em Python;
+- praticar código limpo e modular;
+- aprender a validar entradas e tratar erros;
+- transformar exercícios em pequenos projetos;
+- construir uma base para estudos posteriores de Engenharia de Software.
 
-## 📂 Modular Architecture & Directory Guide
+## 🛠️ Padrões do repositório
 
-Explore abaixo os módulos especializados que compõem este ecossistema de estudos:
+Conforme os módulos evoluírem, os estudos poderão incorporar:
 
-### 🔹 1. [`/fundamentals`](./fundamentals) — Os Pilares da Linguagem
-> **Status:** `🟢 Concluído & Consolidado` | **Foco:** `Sintaxe, Estruturas de Controle e Funções`
-* **O que você vai encontrar:** Scripts focados em dominar a base da linguagem Python. Inclui manipulação de tipos de dados primitivos, estruturas condicionais avançadas (`if/elif/else`), loops otimizados (`for/while`), criação de funções modulares e tratamento robusto de erros e exceções (`try/except`).
-* **Objetivo técnico:** Garantir fluência total na sintaxe e na lógica computacional básica antes de avançar para paradigmas complexos.
+- testes automatizados;
+- documentação técnica;
+- type hints;
+- organização por módulos;
+- integração contínua quando houver código que justifique CI.
 
-### 🔹 2. [`/algorithms`](./algorithms) — Resolução de Problemas & Lógica
-> **Status:** `🟢 Em Atualização Constante` | **Foco:** `Estruturas de Dados e Pensamento Computacional`
-* **O que você vai encontrar:** Uma coleção refinada de desafios lógicos, manipulação avançada de listas, dicionários, tuplas, conjuntos (sets) e algoritmos de busca e ordenação. Cada script foi pensado para otimizar a performance e reduzir a complexidade de código.
-* **Objetivo técnico:** Desenvolver o raciocínio lógico analítico necessário para desenhar softwares eficientes e escaláveis na Engenharia de Software.
+O repositório não pretende apresentar exercícios simples como sistemas de produção. A documentação deve acompanhar apenas o que estiver realmente implementado.
 
-### 🔹 3. [`/automation`](./automation) — Produtividade & Automação Inteligente
-> **Status:** `🟡 Próxima Fase` | **Foco:** `Manipulação de Arquivos, APIs e Processos`
-* **O que você vai encontrar:** Ferramentas utilitárias e scripts desenvolvidos para automatizar tarefas repetitivas do dia a dia — como organização automatizada de diretórios, leitura e escrita em lotes de arquivos (`.txt`, `.csv`, `.json`), raspagem de dados e integração com serviços web.
-* **Objetivo técnico:** Aplicar programação prática para gerar ganho real de tempo e produtividade através de scripts autônomos.
+## 👩‍💻 Autora
 
-### 🔹 4. [`/projects`](./projects) — Mini Aplicações & Projetos Práticos
-> **Status:** `🟢 Ativo & Expandindo` | **Foco:** `Aplicações Completas e Portfólio`
-* **O que você vai encontrar:** Projetos independentes e interativos desenvolvidos do zero (como calculadoras dinâmicas de sistemas, jogos em terminal e sistemas de gerenciamento de dados). Cada projeto possui seu próprio escopo e documentação detalhada.
-* **Objetivo técnico:** Consolidar a teoria na prática, criando produtos de software funcionais e visualmente organizados para exibição profissional.
+**Marcella Bongiolo**
 
----
+Repositório pessoal de estudos e prática em Python.
 
-## 💎 Core Principles & Engineering Standards
+## 📄 Licença
 
-* **Clean Code:** Nomes de variáveis descritivos, funções coesas com responsabilidade única e código altamente legível.
-* **PEP 8 Compliance:** Rigorosa observância aos padrões oficiais de estilo de código da comunidade Python.
-* **Modularidade:** Separação clara de responsabilidades para garantir que o código seja reutilizável e fácil de dar manutenção.
-
----
-
-## 👩‍💻 About the Author
-
-<div align="center">
-
-**Marcella Bongiolo**  
-*Future Software Engineer | UNESC Student*
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-marcellabongiolo-181717?style=flat-square&logo=github)](https://github.com/marcellabongiolo)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-marcellabongiolo-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/marcellabongiolo)
-[![Email Badge](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:marcellabongioloemili@gmail.com)
-
-</div>
+Distribuído sob a licença MIT.
