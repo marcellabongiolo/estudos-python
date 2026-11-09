@@ -4,6 +4,20 @@ Repositório dedicado ao estudo progressivo de **Python, lógica de programaçã
 
 A proposta é registrar a evolução prática dos estudos de forma organizada, mantendo cada módulo simples, documentado e fácil de expandir.
 
+## Conteúdo implementado
+
+- `fundamentals/hello_cs50.py`: saudação com normalização de espaços, validação de nome e separação entre função e terminal.
+- `tests/test_hello_cs50.py`: testes com a biblioteca padrão.
+- GitHub Actions executa os testes em Python 3.10, 3.12 e 3.13.
+- As pastas `automation/` e `projects/` ainda são roteiros de estudo, sem implementações.
+
+Requer Python 3.10+ e não precisa instalar dependências. Na raiz:
+
+```bash
+python -m fundamentals.hello_cs50
+python -m unittest discover -s tests -v
+```
+
 ## 📚 Organização
 
 ### [fundamentals/](./fundamentals)

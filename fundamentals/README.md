@@ -2,7 +2,11 @@
 
 Módulo de estudos dedicado à base da linguagem Python e ao desenvolvimento de raciocínio lógico.
 
-## Conteúdos
+## Exercício disponível
+
+`hello_cs50.py` recebe um nome pelo terminal e chama `saudar()`, que normaliza espaços e rejeita nomes vazios ou tipos inválidos. Execute da raiz com `python -m fundamentals.hello_cs50`.
+
+## Temas de estudo
 
 - sintaxe e tipos de dados;
 - condicionais e estruturas de repetição;
